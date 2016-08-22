@@ -1,0 +1,3 @@
+Dans ce fichier, il y aura un conflit
+
+Car cette phrase n'est pas pareille sur l'autre branche
