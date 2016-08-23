@@ -1,3 +1,5 @@
 Dans ce fichier, il y aura un conflit
 
 Car cette phrase est pareille sur l'autre branche
+
+alllo
